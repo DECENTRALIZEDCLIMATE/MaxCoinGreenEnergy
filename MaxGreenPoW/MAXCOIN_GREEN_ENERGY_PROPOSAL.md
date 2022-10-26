@@ -25,7 +25,6 @@ Following a fully free software as following the main philosophies of the Maxcoi
 ## ELECTRICAL SCHEMATIC
 
 
-![ElectricSchematic.jpg](../_resources/ElectricSchematic.jpg)
 
 
 ## USE CASE
@@ -154,6 +153,12 @@ end note
 ```
 
 ## COMPONENT DIAGRAM
+
+![Components Diagram](components_diagram.jpg)
+
+## NETWORK DIAGRAM
+
+![NETWORK Diagram](components_diagram.jpg)
 
 ## SEQUENCE DIAGRAM
 
