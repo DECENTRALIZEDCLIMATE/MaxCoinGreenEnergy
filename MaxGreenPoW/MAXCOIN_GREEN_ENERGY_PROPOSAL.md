@@ -158,7 +158,7 @@ end note
 
 ## NETWORK DIAGRAM
 
-![NETWORK Diagram](components_diagram.jpg)
+![NETWORK Diagram](network_diagram.png)
 
 ## SEQUENCE DIAGRAM
 
