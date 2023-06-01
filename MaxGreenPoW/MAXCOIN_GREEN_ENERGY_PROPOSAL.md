@@ -585,7 +585,8 @@ Searching for an efficient clean energy generation with the current intermittent
 
 > ""We live in times of great change and in the energy field even more accelerated changes are required to make the generation and distribution of energy to a large number of people and value chains more efficient, as these competitive advantages determine the economic power of a country. Innovative tools exist that allow for a better distribution of energy sources and we present one of the many proposals that exist to make energy reach more people at a lower cost and greater benefit."[name=Bleecker]
 
-## CONTACT
+## CONTACT AND DEVELOPERS
+> Work developed in collaboration with the [Decentralized Climate Foundation](https://decentralizedclimate.org) and [Neetsec International Inc](https://neetsec.com).
 
 - [David E. Perez Negron R.](mailto:david@neetsec.com)
 - [Octavio Valdez](mailto:ohuerta@decentralizedclimate.org)
